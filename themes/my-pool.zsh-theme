@@ -1,5 +1,5 @@
 function toon {
-  echo -n ""
+  echo -n "💩 "
 }
 
 get_git_dirty() {
